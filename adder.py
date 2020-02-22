@@ -8,9 +8,9 @@ import csv
 import traceback
 import time
  
-api_id = 123456
-api_hash = 'YOUR_API_HASH'
-phone = '+111111111111'
+api_id = 1182682
+api_hash = 'a5335f99f6d92e417f550603c193f8f7'
+phone = '+17013695832'
 client = TelegramClient(phone, api_id, api_hash)
  
 client.connect()
